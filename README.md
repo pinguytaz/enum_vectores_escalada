@@ -2,7 +2,8 @@
 
 Modulo post (para linux aunque seguramente con muy poco cambios también es valido para MacOS) que realiza un pequeño análisis en
 busca de posibles vectores de ataque para escalar privilegios tales como:
-  1.Información del Sistema operativo y versión de kernel
+
+  1. Información del Sistema operativo y versión de kernel
   
     Con la versión de Kernel podremos buscar posibles Vulnerabilidades.
   
