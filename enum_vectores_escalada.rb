@@ -16,6 +16,8 @@
 # This module requires Metasploit: https://metasploit.com/download
 # Current source: https://github.com/rapid7/metasploit-framework
 ################################################################################
+require 'msf/core'
+
 class MetasploitModule < Msf::Post   # Herencia de modulo Explotación.
    include Msf::Post::File            
    include Msf::Post::Linux::System
